@@ -18,3 +18,5 @@
 | [**renplay**](https://github.com/renplay-web/renplay) | The app: library, installer, player, server-side saves, mods. One container. |
 | [**catalog**](https://github.com/renplay-web/catalog) | Games tested in Renplay, with their official covers and settings. Add yours. |
 | [**engines**](https://github.com/renplay-web/engines) | The official Ren’Py web engines, packaged per version. |
+
+<p align="center"><sub>Made by the Renplay Team. Free and open source (MIT).</sub></p>
