@@ -1,6 +1,6 @@
 <p align="center"><img src="https://renplay-web.github.io/logo.png" width="84" alt="Renplay"></p>
 
-<h2 align="center">Your Ren’Py and HTML games, on every screen</h2>
+<h2 align="center">Your Ren’Py games, on every screen</h2>
 
 <p align="center">Renplay turns the visual novels you download into games that play in any browser, on your computer, tablet and phone, with every save kept on your own server.</p>
 
